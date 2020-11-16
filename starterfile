@@ -1,0 +1,3 @@
+import Tkinter
+top=Tinter.tk()
+top.mainLoop()
